@@ -35,6 +35,8 @@ L’architecture du TP est composée des éléments suivants :
 
 <img width="733" height="532" alt="image" src="https://github.com/user-attachments/assets/70ff78d2-2aed-4c02-a184-8759771232eb" />
 
+<img width="1335" height="441" alt="image" src="https://github.com/user-attachments/assets/2302bf9f-1ada-4528-a637-455496dfbfa2" />
+
 <img width="817" height="607" alt="image" src="https://github.com/user-attachments/assets/1638975b-b20c-44f1-922e-5f152b0c6dc4" />
 
 <img width="854" height="560" alt="image" src="https://github.com/user-attachments/assets/ef1e785c-7fae-4f8a-84a3-b18c323b2346" />
